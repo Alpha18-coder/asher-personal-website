@@ -1,45 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "AsherCode",
+    "occupation": "React Developer",
+    "description": "Passion for creativity and technology",
+    "image": "profilePic.jpg",
+    "bio": "Hi there! I am Asher! also known as AsherKnight. I'm a 19 years old self-taught React developer and have been coding and building clones for 5 months to learn the MERN stack. I'm passionate to learn new things, programming languages, tools or methods as well as design new websites with creativity to overcome new challenges and take BIG tech projects to the next level.",
+    "contactmessage": "Let's get in touch! Contact me",
+    "email": "alonsosandovalch@gmail.com",
+    "phone": "+51 939236338",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Av. Paseo la Castellana 1080",
+      "city": "Lima",
+      "state": "Provincia de Lima",
+      "zip": "15049"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/asher.harrison.353",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/alonso-sandoval-889590187/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/theasherknight/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/Alpha18-coder",
         "className": "fa fa-github"
       }
     ]
@@ -48,36 +43,36 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Universidad Ricardo Palma",
+        "degree": "",
+        "graduated": "",
+        "description": "I'm still studying"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Looking for a job",
+        "title": "",
+        "years": "",
+        "description": "I'm currently creating apps with React.js for now :)"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "80%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "10%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "Git/Github",
+        "level": "72%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "90%"
       },
       {
         "name": "Web Development",
@@ -88,19 +83,19 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Disney Plus Clone (React JS)",
         "category": "",
         "image": "snapchat.jpg",
         "url": "https://youtu.be/1kGISk5ft2w"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Clubhouse Clone 2.0 (React JS)",
         "category": "",
         "image": "gmail.jpg",
         "url": "https://youtu.be/b7nrXjS6Dqs"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Amazon Clone 2.0 (React JS)",
         "category": "",
         "image": "linkedin.jpg",
         "url": "https://youtu.be/QaYts9sPmcY"
@@ -110,7 +105,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "text": "Asher is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
         "user": "Jorge Fouto"
       },
       {
@@ -120,3 +115,4 @@
     ]
   }
 }
+

@@ -58,6 +58,10 @@ time, mark, audio, video {
    background: transparent;
 }
 
+h1 > span {
+   font-size: clamp(0.5em, 1em, 7vw);
+}
+
 article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section {
    display: block;
@@ -87,7 +91,7 @@ pre {
    word-wrap: break-word;
 }
 
-blockquote, q { quotes: &#8220 &#8220; }
+blockquote, q { quotes: #8220 #8220; }
 
 blockquote:before, blockquote:after,
 q:before, q:after {

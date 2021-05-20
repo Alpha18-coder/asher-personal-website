@@ -2,7 +2,7 @@
 
 ![Asher's Website](resume-screenshot.png?raw=true "React JS Portfolio Stater Pack ")
 
-### <a href="https://trusting-shirley-5ce896.netlify.app/">LIVE DEMO</a>
+### <a href="https://jolly-hugle-b11123.netlify.app/">LIVE DEMO</a>
 
 
 ## Credits

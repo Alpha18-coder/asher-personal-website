@@ -1,8 +1,8 @@
-# Asher's Digital Portfolio
+# Asher's website and Digital Portfolio
 
-![Asher's Digital Portfolio](resume-screenshot.png?raw=true "Asher's React JS Portfolio")
+![Asher's Website](resume-screenshot.png?raw=true "React JS Portfolio Stater Pack ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="https://trusting-shirley-5ce896.netlify.app/">LIVE DEMO</a>
 
 
 ## Credits

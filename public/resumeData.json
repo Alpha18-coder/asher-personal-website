@@ -83,10 +83,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Disney Plus Clone (React JS)",
+        "title": "",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "",
+        "url": ""
       },
       {
         "title": "E-Learning Website (React JS)",

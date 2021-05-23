@@ -29,13 +29,13 @@ const Portfolio = ({ data }) => {
     <section id="portfolio">
       <div className="row">
         <div className="twelve columns collapsed">
-          <h1>Available Soon! :)</h1>
+          <h1>Check it out!</h1>
 
           <div
             id="portfolio-wrapper"
             className="bgrid-quarters s-bgrid-thirds cf"
           >
-            {/*{projects}*/}
+            {projects}
           </div>
         </div>
       </div>

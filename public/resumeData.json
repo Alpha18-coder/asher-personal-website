@@ -68,7 +68,7 @@
       },
       {
         "name": "Git/Github",
-        "level": "72%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
@@ -89,13 +89,13 @@
         "url": "https://youtu.be/1kGISk5ft2w"
       },
       {
-        "title": "Clubhouse Clone 2.0 (React JS)",
+        "title": "E-Learning Website (React JS)",
         "category": "",
         "image": "elearningwebsite.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "url": "https://gallant-bohr-7e54ae.netlify.app/"
       },
       {
-        "title": "Amazon Clone 2.0 (React JS)",
+        "title": "Amazon Clone 2.0 (Next JS)",
         "category": "",
         "image": "amazon.jpg",
         "url": "amazon-clone-2-nomemdh11-alpha18-coder.vercel.app"

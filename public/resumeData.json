@@ -60,11 +60,11 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "85%"
       },
       {
         "name": "Python",
-        "level": "10%"
+        "level": "12%"
       },
       {
         "name": "Git/Github",
@@ -83,10 +83,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "",
+        "title": "Diseny PLus Clone (React JS)",
         "category": "",
-        "image": "",
-        "url": ""
+        "image": "disney-plus.jpg",
+        "url": "https://fervent-euclid-ce20b1.netlify.app"
       },
       {
         "title": "E-Learning Website (React JS)",
@@ -95,7 +95,7 @@
         "url": "https://gallant-bohr-7e54ae.netlify.app/"
       },
       {
-        "title": "Amazon Clone 2.0 (Next JS)",
+        "title": "Amazon Clone 2.0 (React JS/Next JS/Redux/Stripe)",
         "category": "",
         "image": "amazon.jpg",
         "url": "https://amazon-clone-2-nomemdh11-alpha18-coder.vercel.app/"

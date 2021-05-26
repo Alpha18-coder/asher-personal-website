@@ -83,7 +83,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Diseny PLus Clone (React JS)",
+        "title": "Diseny PLus Clone (React JS/ Redux)",
         "category": "",
         "image": "disney-plus.jpg",
         "url": "https://fervent-euclid-ce20b1.netlify.app"

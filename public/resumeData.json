@@ -18,9 +18,9 @@
     "resumedownload": "",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/asher.harrison.353",
-        "className": "fa fa-facebook"
+        "name": "Behance",
+        "url": "https://www.behance.net/alonsosandoval2/",
+        "className": "fa fa-behance"
       },
       {
         "name": "linkedin",
@@ -29,7 +29,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/theasherknight/",
+        "url": "https://www.instagram.com/ashercode19/",
         "className": "fa fa-instagram"
       },
       {
@@ -64,7 +64,7 @@
       },
       {
         "name": "Python",
-        "level": "12%"
+        "level": "20%"
       },
       {
         "name": "Git/Github",

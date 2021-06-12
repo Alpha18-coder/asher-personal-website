@@ -18,11 +18,6 @@
     "resumedownload": "",
     "social": [
       {
-        "name": "Behance",
-        "url": "https://www.behance.net/alonsosandoval2/",
-        "className": "fas fa-behance"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/alonso-sandoval-889590187/",
         "className": "fa fa-linkedin"
